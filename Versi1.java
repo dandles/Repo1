@@ -7,7 +7,7 @@ public class Versi1 {
 		
 		System.out.println(" Versi 2 ");
 		System.out.println(" Dandles Banjarnahor test 2 ");
-
+		System.out.println(" tambah donks ");
 	}
 
 }
