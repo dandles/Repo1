@@ -8,6 +8,8 @@ public class Versi1 {
 		System.out.println(" Versi 1.4 ");
 		System.out.println(" Dandles Banjarnahor test 1.4	 ");
 		System.out.println(" Versi 1.4 ");
+		System.out.println(" PULL YA ");
+		
 	}
 
 }
